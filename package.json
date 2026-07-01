@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "eslint": "^10.6.0",
     "gulp": "^5.0.1",
     "gulp-exec": "^5.0.0"
   }
